@@ -1,6 +1,6 @@
 import React from 'react';
 
-export default function () {
+export default function CTA() {
   return (
     <section className='py-12 md:py-24'>
       <div className='container'>
